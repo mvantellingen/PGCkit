@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'PGview' target in the 'PGview'
+// project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
+

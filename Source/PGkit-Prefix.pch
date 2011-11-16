@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'PGkit' target in the 'PGkit' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
